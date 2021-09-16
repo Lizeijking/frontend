@@ -40,11 +40,11 @@ https://broederliefde.com
 
 #### Screenshot(s) van de eerste pagina (small screen):
 Home pagina
-<img src="images/homepagina.pdf" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepagina.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Detailpagina
-<img src="images/detailpagina.pdf" width="375px" alt="omschrijving van de pagina">
+<img src="images/detailpagina.jpg" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
