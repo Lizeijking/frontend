@@ -78,7 +78,7 @@ Detailpagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik snap niet hoe ik de afbeeldingen over de hele breedte van de pagina krijg
 
 
 ### Agenda voor meeting

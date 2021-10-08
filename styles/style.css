@@ -38,7 +38,7 @@ img {
 }
 
 /* Afbeelding van het album */
-.album {
+img:nth-of-type(3) {
     width: 50vh;
     padding-left: 4vh;
     margin-top: 7vh;
@@ -59,19 +59,19 @@ b  {
 p {
  margin-left: 4vh;
  margin-right: 5vh;
-line-height: 4vh;
-font-size: 1em;
-color: #C7C7C6;
+ line-height: 4vh;
+ font-size: 1em;
+ color: #C7C7C6;
  letter-spacing: ;
 
 
 }
 
 .hwpologo {
-    margin-left: 4vh;
-    width: 14vh;
-    margin-bottom: 4vh;
-    margin-top: 4vh;
+  margin-left: 4vh;
+  width: 14vh;
+  margin-bottom: 4vh;
+  margin-top: 4vh;
 }
 
 h3, h2, h1  {
@@ -131,20 +131,20 @@ h5 {
 
 }
 
-
-.social ul{
+ /* SOCIALS */
+ ul{
   display: flex;
     margin-left: 10vh;
     margin-bottom: 4vh;
 
 }
 
-.social ul li {
+ ul li {
   flex-basis: 2em;
   display: flex;
 }
 
-.social ul li img {
+ul li img {
   width: 3vh;
 
 }
