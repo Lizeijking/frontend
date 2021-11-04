@@ -58,18 +58,13 @@ Detailpagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina:
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdown1.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu):
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdown2.png" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter):
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
-
-
-
 
 
 ## Voortgang 1 (week 2)
@@ -78,61 +73,25 @@ Detailpagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Ik snap niet hoe ik de afbeeldingen over de hele breedte van de pagina krijg
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Ik snap niet hoe ik de afbeeldingen over de hele breedte van de pagina krijg en hoe ik de tour dates het beste kan aanpakken. Ook wilde ik weten hoe je bij de tweede pagina elementen kunt aanroepen in css
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- body: margin: 0; om er voor te zorgen dat de afbeeldingen over de hele breedte van de pagina liggen
+- in plaats van p tags, h tags gebruiken
+- divs veranderen naar mooie elementen
+- sections gebruiken
+- border mag wel in px, voor de rest em gebruiken
+- het gedeelte van de tourdates kan ik fixen door er een section omheen te zetten
+- bij de tweede html pagina mag je wel classes gebruiken, omdat je dan die classes kan aanroepen in css
+
 
 </details>
 
 
 
-
-
-## Voortgang 2 (week 3)
-
-<details>
-<summary>uitwerken voor 2e voortgang</summary>
-
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
-</details>
 
 
 
@@ -144,7 +103,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+- Niet alles kan met het toetsenbord geselecteerd worden
+
 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
@@ -157,54 +117,7 @@ Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
-
-#### Titel volgende bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
 </details>
-
-
-
-
-
-## Voortgang 3 (week 4)
-
-<details>
-<summary>uitwerken voor 3e voortgang</summary>
-
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
-</details>
-
-
 
 
 
@@ -233,8 +146,12 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.w3schools.com/howto/howto_css_button_on_image.asp (button op afbeelding)
+2. https://codepen.io/Lizeijking/pen/yLaaBgM (positioneren over tekst)
+3. https://codepen.io/Lizeijking/pen/YzGGayz (social media buttons met flex)
+4. https://www.youtube.com/watch?v=QmG9lSEhbwc (formulier)
 
 </details>
+
+
+https://www.youtube.com/watch?v=drOgpionKpY
