@@ -58,10 +58,10 @@ Detailpagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina:
-<img src="images/breakdown1.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdown2.png" width="375px" alt="breakdown van de hele pagina">
 
 ### de hele tweede pagina:
-<img src="images/breakdown2.png" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdown1.png" width="375px" alt="breakdown van een dynamisch deel">
 
 
 </details>
