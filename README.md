@@ -60,7 +60,7 @@ Detailpagina
 ### de hele pagina:
 <img src="images/breakdown1.png" width="375px" alt="breakdown van de hele pagina">
 
-### dynamisch deel (bijv menu):
+### de hele tweede pagina:
 <img src="images/breakdown2.png" width="375px" alt="breakdown van een dynamisch deel">
 
 
