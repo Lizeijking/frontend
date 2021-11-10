@@ -52,7 +52,7 @@ Detailpagina
 
 
 
-## Breakdownschets (week 1)
+## Breakdownschets
 
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
@@ -67,7 +67,7 @@ Detailpagina
 </details>
 
 
-## Voortgang 1 (week 2)
+## Voortgang
 
 <details>
 <summary>uitwerken voor 1e voortgang</summary>
@@ -97,7 +97,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
-## Toegankelijkheidstest (week 4)
+## Toegankelijkheidstest
 
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
@@ -121,13 +121,30 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 
 
-## Eindgesprek (week 5)
+## Eindgesprek
 
 <details>
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben heel erg trots op het eindresultaat. In het begin maakte ik nog veel gebruik van divs en classes.
+Na het voortgangsgesprek heb ik dit aangepast en ben ik verder gegaan met de tweede pagina. Ik had veel moeite
+met de micro-interactie, ik wilde eerst voor de winkelmand gaan maar ben uiteindelijk voor een hamburger menu gegaan, dit
+omdat ik dit ook nog nooit heb gekund. Na eindeloos youtube filmpjes kijken en alles uitproberen was het me dan eindelijk gelukt!
+
+Toen ik aan de tweede pagina begon, voelde ik me net een nerd want dit ging soepeler dan ik had gedacht.
+Ik had nog wel veel moeite om de foto's mooi te zetten zoals de echte site dat heeft:
+<img src="images/eindgesprekfoto1" width="375px" alt="foto's volgorde echte site">
+Uiteindelijk heb ik dit met grid op kunnen lossen.
+
+Waar ik me nou echt een nerd voelde was bij dit gedeelte van de site:
+<img src="images/eindgesprekfoto1" width="375px" alt="tweede foto echte site">
+Dit stukje van de site ging heel makkelijk waar ik zelf ook versteld van stond.
+
+Waar ik nog meer echt moeite mee heb (nog steeds) is dat mijn nav bar op de tweede website niet mee scrolt, maar als je naar beneden
+scrolt en weer omhoog is ie er ineens wel, ik snap hier vandaag de dag nogsteeds niets van want dit gebeurt alleen als ik een dimensie aanklik anders gaat ie wel mee scrollen. Dat is het enige gedeelte van de site wat ik nou echt jammer vindt, want bij de eerste pagina
+doet de nav bar het wel helemaal goed.
+
 
 ### Screenshot(s)
 
@@ -153,6 +170,8 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 5. https://www.w3schools.com/css/css_z-index.asp (geleerd hoe ik de nav bar overal overheen krijg dmv z-index)
 6. https://www.youtube.com/watch?v=vQTZl_5H90k (dark/light mode)
 7. https://www.youtube.com/watch?v=X10lSt_9WeY&t=584s (hamburger menu)
+8. https://elad.medium.com/the-css-grid-methods-e75ce54d1da2 (grid voor tweede pagina)
+9. https://www.w3schools.com/howto/howto_css_circles.asp (de bolletjes onder de foto's)
 
 
 </details>
