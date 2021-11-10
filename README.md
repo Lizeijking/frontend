@@ -150,6 +150,10 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 2. https://codepen.io/Lizeijking/pen/yLaaBgM (positioneren over tekst)
 3. https://codepen.io/Lizeijking/pen/YzGGayz (social media buttons met flex)
 4. https://www.youtube.com/watch?v=QmG9lSEhbwc (formulier)
+5. https://www.w3schools.com/css/css_z-index.asp (geleerd hoe ik de nav bar overal overheen krijg dmv z-index)
+6. https://www.youtube.com/watch?v=vQTZl_5H90k (dark/light mode)
+7. https://www.youtube.com/watch?v=X10lSt_9WeY&t=584s (hamburger menu)
+
 
 </details>
 
