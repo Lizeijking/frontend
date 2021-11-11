@@ -140,11 +140,9 @@ Ik had nog wel veel moeite om de foto's mooi te zetten zoals de echte site dat h
 <img src="images/eindgesprekfoto1.png" width="375px" alt="foto's volgorde echte site">
 Uiteindelijk heb ik dit met grid op kunnen lossen.
 
-Waar ik me nou echt een nerd voelde was bij dit gedeelte van de site:
-<img src="images/eindgesprekfoto1.png" width="375px" alt="tweede foto echte site">
-Dit stukje van de site ging heel makkelijk waar ik zelf ook versteld van stond.
-
 Wat ik echt niet voor elkaar kreeg was met de tab zien dat het logo en winkelmand geselecteerd zijn, na veel onderzoek is het gelukt door op die 2 images in de html een "tabindex="0" te plaatsen.
+
+Al met al ben ik heel erg blij met het eindresultaat!
 
 ### Screenshot(s)
 
