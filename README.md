@@ -70,7 +70,7 @@ Detailpagina
 ## Voortgang
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>uitwerken voor voortgang</summary>
 
 ### Stand van zaken
 Ik snap niet hoe ik de afbeeldingen over de hele breedte van de pagina krijg en hoe ik de tour dates het beste kan aanpakken. Ook wilde ik weten hoe je bij de tweede pagina elementen kunt aanroepen in css
@@ -103,19 +103,22 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
+- Screenreader is verschrikkelijk
 - Niet alles kan met het toetsenbord geselecteerd worden
 
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Screenrader
+Nog niet al mijn afbeeldingen hadden een alt, ik snapte niks van de screenreader. Sommige delen worden voorgelezen door een
+engelse man.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Ik heb al mijn afbeeldingen nu een alt gegeven en nog een keer getest hoe het nu met een screenreader gaat.
+
+#### Toetsenbord
+Niet alles kon nog met het toetsenbord geselecteerd worden, maar ze werden wel in een logische volgorde geselecteerd.
+
+Ik had nog niet voor elk element verschillende states uitgewerkt, dat heb ik nu wel gedaan.
 
 
-#### Titel tweede bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
@@ -134,22 +137,20 @@ omdat ik dit ook nog nooit heb gekund. Na eindeloos youtube filmpjes kijken en a
 
 Toen ik aan de tweede pagina begon, voelde ik me net een nerd want dit ging soepeler dan ik had gedacht.
 Ik had nog wel veel moeite om de foto's mooi te zetten zoals de echte site dat heeft:
-<img src="images/eindgesprekfoto1" width="375px" alt="foto's volgorde echte site">
+<img src="images/eindgesprekfoto1.png" width="375px" alt="foto's volgorde echte site">
 Uiteindelijk heb ik dit met grid op kunnen lossen.
 
 Waar ik me nou echt een nerd voelde was bij dit gedeelte van de site:
-<img src="images/eindgesprekfoto1" width="375px" alt="tweede foto echte site">
+<img src="images/eindgesprekfoto1.png" width="375px" alt="tweede foto echte site">
 Dit stukje van de site ging heel makkelijk waar ik zelf ook versteld van stond.
 
-Waar ik nog meer echt moeite mee heb (nog steeds) is dat mijn nav bar op de tweede website niet mee scrolt, maar als je naar beneden
-scrolt en weer omhoog is ie er ineens wel, ik snap hier vandaag de dag nogsteeds niets van want dit gebeurt alleen als ik een dimensie aanklik anders gaat ie wel mee scrollen. Dat is het enige gedeelte van de site wat ik nou echt jammer vindt, want bij de eerste pagina
-doet de nav bar het wel helemaal goed.
-
+Wat ik echt niet voor elkaar kreeg was met de tab zien dat het logo en winkelmand geselecteerd zijn, na veel onderzoek is het gelukt door op die 2 images in de html een "tabindex="0" te plaatsen.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
-
+<img src="images/eindsite1.png" width="375px" alt="eerste pagina">
+<img src="images/eindsite2.png" width="375px" alt="tweede pagina">
 </details>
 
 
@@ -166,15 +167,17 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 1. https://www.w3schools.com/howto/howto_css_button_on_image.asp (button op afbeelding)
 2. https://codepen.io/Lizeijking/pen/yLaaBgM (positioneren over tekst)
 3. https://codepen.io/Lizeijking/pen/YzGGayz (social media buttons met flex)
-4. https://www.youtube.com/watch?v=QmG9lSEhbwc (formulier)
-5. https://www.w3schools.com/css/css_z-index.asp (geleerd hoe ik de nav bar overal overheen krijg dmv z-index)
-6. https://www.youtube.com/watch?v=vQTZl_5H90k (dark/light mode)
-7. https://www.youtube.com/watch?v=X10lSt_9WeY&t=584s (hamburger menu)
-8. https://elad.medium.com/the-css-grid-methods-e75ce54d1da2 (grid voor tweede pagina)
-9. https://www.w3schools.com/howto/howto_css_circles.asp (de bolletjes onder de foto's)
+4. https://www.youtube.com/watch?v=zdA3qZNH1vc (social media buttons footer)
+5. https://www.youtube.com/watch?v=QmG9lSEhbwc (formulier)
+6. https://www.w3schools.com/css/css_z-index.asp (geleerd hoe ik de nav bar overal overheen krijg dmv z-index)
+7. https://www.youtube.com/watch?v=vQTZl_5H90k (dark/light mode)
+8. https://www.youtube.com/watch?v=X10lSt_9WeY&t=584s (hamburger menu)
+9. https://elad.medium.com/the-css-grid-methods-e75ce54d1da2 (grid voor tweede pagina)
+10. https://www.w3schools.com/howto/howto_css_circles.asp (de bolletjes onder de foto's)
+11. https://codepen.io/shooft/pen/gOrJdGG (toegankelijkheid toepassen)
+12. https://stackoverflow.com/questions/27327765/how-to-get-a-img-tag-the-focus (nav bar werkte niet mee met toegankelijkheid, door tabindex:"0" wel)
 
 
 </details>
 
 
-https://www.youtube.com/watch?v=drOgpionKpY
